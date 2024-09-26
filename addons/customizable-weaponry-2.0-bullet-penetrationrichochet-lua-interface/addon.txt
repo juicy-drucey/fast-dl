@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "Customizable Weaponry 2.0 - Bullet Penetration/Richochet Lua Interface"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "tool",
+	"tags": [
+		"roleplay",
+		"realism"
+	]
+}"
+}

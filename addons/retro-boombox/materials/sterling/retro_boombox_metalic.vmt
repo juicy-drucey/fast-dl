@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sterling/retro_boombox_main"
+	"$bumpmap" "sterling/retro_boombox_norm"
+
+	"$envmap"			"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"			"[1.25 1.25 1.25]"
+
+	"$phong"				"1"
+	"$phongexponent"			"20"
+	"$phongboost"			"2"
+	"$phongfresnelranges"		"[2 4 6]"
+	"$phongtint"			"[1 0.66 0.2]"
+
+	"$color2" "[0.6 0.6 0.6]"
+}

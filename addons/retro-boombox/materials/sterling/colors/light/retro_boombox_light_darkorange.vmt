@@ -1,0 +1,6 @@
+ "UnlitGeneric"
+{
+	"$basetexture" "sterling/retro_boombox_lights_main"
+	"$translucent" "1"
+	"$color2" "[ 1 0.36470588235294 0 ]"
+}

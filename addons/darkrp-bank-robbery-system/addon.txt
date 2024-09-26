@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "[DarkRP] Bank Robbery System"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "entity",
+	"tags": 
+	[
+		"roleplay",
+		"fun"
+	]
+}"
+}
