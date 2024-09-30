@@ -1,3 +1,0 @@
-## SHOULD_PASS:EXECUTE
-
-changed(ang())

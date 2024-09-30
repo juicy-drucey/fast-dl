@@ -1,4 +1,0 @@
-## SHOULD_FAIL:COMPILE
-
-# Implicit number fallback is not going to be allowed.
-const J = function(X) {}

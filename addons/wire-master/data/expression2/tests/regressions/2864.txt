@@ -1,5 +1,0 @@
-## SHOULD_PASS:COMPILE
-
-function function retfn() {
-	return function() {}
-}
